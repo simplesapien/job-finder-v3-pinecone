@@ -1,0 +1,25 @@
+{
+  "name": "job-finder-v3-pinecone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplesapien/job-finder-v3-pinecone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplesapien/job-finder-v3-pinecone/issues"
+  },
+  "homepage": "https://github.com/simplesapien/job-finder-v3-pinecone#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "puppeteer": "^19.11.1"
+  }
+}
